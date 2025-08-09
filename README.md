@@ -28,5 +28,3 @@ WebInstant is a modern website development agency that helps creators, freelance
 - **Font Awesome** - Icon library
 - **Google Fonts** - Typography (Poppins, Inter)
 3. Test all links and forms
-
-## File 
